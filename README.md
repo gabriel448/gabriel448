@@ -40,10 +40,10 @@
 
 | Projeto | Stack | Status |
 |:---:|:---:|:---:|
-| 🎮 Valorant Discord Bot | Python · discord.py · PostgreSQL · LLMs | Em produção |
-| 🖥 PYCRUD | Python · PySide6 · JSON | Concluído |
-| 🎵 MP3 Downloader | Python · yt-dlp · FFmpeg · QThread | Concluído |
-| ♟ The CareTaker | Java · OOP | Concluído |
+| 🎮 [Valorant Bot](https://github.com/gabriel448/gabriel448) | Python · discord.py · PostgreSQL · LLMs | Em produção |
+| 💰 [Finance Mobile](https://github.com/gabriel448/finance-mobile) | TypeScript · React Native · Expo | Em produção |
+| 🎮 [Hero Play](https://github.com/gabriel448/Hero-play) | Dart · Flutter | Em produção |
+| ♟ [The CareTaker](https://github.com/gabriel448/The-CareTaker) | Java · OOP | Concluído |
 
 ---
 
