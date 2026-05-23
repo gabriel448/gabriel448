@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/banner_top.jpg" width="100%"/>
+<img src="./assets/banner_top.jpg" width="90%"/>
 
 <br/>
 
 <h1>
-  ✝ &nbsp; Gabriel de Sousa Rocha &nbsp; ✝
+  † &nbsp; Gabriel de Sousa Rocha &nbsp; †
 </h1>
 
 <p>
-  <em>Backend Developer · Python & APIs · Seeking Internship</em>
+  <em>Backend Developer · Python &amp; APIs · Seeking Internship</em>
 </p>
 
 </div>
 
 ---
 
-### ✝ Sobre mim
+### † Sobre mim
 
 ```
 📍 Sabará, MG — Brasil
@@ -28,7 +28,7 @@
 
 ---
 
-### ✝ Stack
+### † Stack
 
 <div align="center">
 
@@ -37,16 +37,16 @@
 ![Docker](https://img.shields.io/badge/Docker-containers-1a1a2e?style=flat-square&logo=docker&logoColor=white&labelColor=0d0d0d)
 ![FastAPI](https://img.shields.io/badge/FastAPI-básico-1a1a2e?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d0d0d)
 ![Discord.py](https://img.shields.io/badge/discord.py-production-1a1a2e?style=flat-square&logo=discord&logoColor=white&labelColor=0d0d0d)
-![Java](https://img.shields.io/badge/Java-intermediário-1a1a2e?style=flat-square&logo=java&logoColor=white&labelColor=0d0d0d)
+![Java](https://img.shields.io/badge/Java-intermediário-1a1a2e?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d0d0d)
 ![Git](https://img.shields.io/badge/Git-feature--branching-1a1a2e?style=flat-square&logo=git&logoColor=white&labelColor=0d0d0d)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-LLMs-1a1a2e?style=flat-square&logo=google&logoColor=white&labelColor=0d0d0d)
+![xAI Grok](https://img.shields.io/badge/xAI_Grok-LLMs-1a1a2e?style=flat-square&logo=x&logoColor=white&labelColor=0d0d0d)
 
 </div>
 
 ---
-<img src="./assets/cathedral.jpg" width="100%"/>
 
-### ✝ Projetos em destaque
+### † Projetos em destaque
 
 | Projeto | Stack | Status |
 |---|---|---|
@@ -57,13 +57,12 @@
 
 ---
 
-### ✝ GitHub Stats
+### † GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gabriel448&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=888888&text_color=666666&icon_color=555555)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabriel448&theme=dark&hide_border=true&background=0d0d0d&ring=555555&fire=888888&currStreakLabel=888888&sideLabels=666666&dates=444444&sideNums=888888&currStreakNum=aaaaaa)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel448&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=888888&text_color=666666)
 
 </div>
 
@@ -74,4 +73,3 @@
 <br/>
 <sub>gabrieldesousa008@gmail.com · Sabará, MG</sub>
 </div>
-      
