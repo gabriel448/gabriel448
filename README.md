@@ -40,7 +40,7 @@
 
 | Projeto | Stack | Status |
 |:---:|:---:|:---:|
-| 🎮 [Valorant Bot](https://github.com/gabriel448/gabriel448) | Python · discord.py · PostgreSQL · LLMs | Em produção |
+| 🎮 [Valorant Bot](https://github.com/gabriel448/Valorant_BOT) | Python · discord.py · PostgreSQL · LLMs | Em produção |
 | 💰 [Finance Mobile](https://github.com/gabriel448/finance-mobile) | TypeScript · React Native · Expo | Em produção |
 | 🎮 [Hero Play](https://github.com/gabriel448/Hero-play) | Dart · Flutter | Em produção |
 | ♟ [The CareTaker](https://github.com/gabriel448/The-CareTaker) | Java · OOP | Concluído |
