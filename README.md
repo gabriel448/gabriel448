@@ -53,6 +53,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/gabriel448/gabriel448/output/snake-dark.svg" alt="snake" />
+
+---
+
 <img src="./assets/banner_bottom.jpg" width="100%"/>
 <br/>
 <sub>gabrieldesousa008@gmail.com · Sabará, MG</sub>
